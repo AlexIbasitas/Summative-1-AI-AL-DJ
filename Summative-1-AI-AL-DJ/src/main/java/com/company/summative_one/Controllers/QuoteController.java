@@ -1,5 +1,5 @@
 package com.company.summative_one.Controllers;
-
+/*
 public class QuoteController {
     import org.springframework.http.HttpStatus;
     import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,3 +16,4 @@ public class QuoteController {
         quotes
     }
 }
+*/
